@@ -13,4 +13,37 @@ Supports both Termux and Linux (root and rootless).
 <h3>Disclaimer</h3>
 This tool is intended for educational purposes only. Misuse of this tool can lead to legal consequences. The creator and contributors will not be held responsible for any damage caused by this tool. Use it wisely and responsibly.
 
-<h4>installation Termux & Linux </h4>
+<h4>installation Termux</h4>
+<pre>
+
+  <ul>
+    <li>$ pkg update</li>
+    <li>$ pkg upgrade </li>
+    <li>pkg install wget git</li>
+    <li>pkg install python</li>
+    <li>pkg install python2</li>
+    <li>pkg install python3</li>
+    <li>pip install colored</li>
+    <li>pip install termcolor</li>
+    <li>git clone https://github.com/MrpasswordTz/SlowGirl.git
+    </li>
+  <li>cd slowgirl</li>
+    <li>python3 slowgirl.py</li>
+  </ul>
+</pre>
+<br>
+<h5>installation in linux</h5>
+<pre>
+  <ul>
+    <li>apt update</li>
+    <li>apt upgrade</li>
+    <li>pip install colored</li>
+    <li>pip install termcolor</li>
+    <li>git clone https://github.com/MrpasswordTz/SlowGirl.git
+    </li>
+    <li>cd slowgirl</li>
+    <li>python3 slowgirl.py</li>
+  </ul>
+</pre>
+<br>
+<h6 style="color:red;">POWERED BY BONGO @BONGOCODERS</h6>
