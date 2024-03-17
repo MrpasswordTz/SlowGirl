@@ -1,49 +1,58 @@
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Made%20with-Python-blue.svg" alt="Made with Python">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MrpasswordTz/SlowGirl/stargazers">
+    <img src="https://img.shields.io/github/stars/MrpasswordTz/SlowGirl.svg" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/MrpasswordTz/SlowGirl/issues">
+    <img src="https://img.shields.io/github/issues/MrpasswordTz/SlowGirl.svg" alt="GitHub issues">
+  </a>
+  <img src="https://img.shields.io/badge/version-v1.0-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/author-Mrpassword-green.svg" alt="Author">
+  <img src="https://img.shields.io/badge/fork-yes-green.svg" alt="Fork">
+  <img src="https://img.shields.io/badge/maintenance-yes-green.svg" alt="Maintenance">
+  <img src="https://img.shields.io/badge/open%20source-yes-green.svg" alt="Open Source">
+</p>
 <img src="Screenshot_20240317-144354~3.png" alt="slowgirlTool">
 
-
-# SlowGirl
+## SlowGirl
 slowGirl - A Simple &amp; Automated Web Server DDoS Tool A user-friendly and simple DDoS tool for beginners, made with Python. slowGirl is an automated tool that detects the type of web server (get, post, or head) and supports both Termux and Linux (root and rootless).
 
-<h2>Features</h2>
+## Features
 Simple and easy to use, designed for beginners
 Made with Python
 Automatically detects the type of web server (get, post, or head)
 Supports both Termux and Linux (root and rootless).
 
-<h3>Disclaimer</h3>
-This tool is intended for educational purposes only. Misuse of this tool can lead to legal consequences. The creator and contributors will not be held responsible for any damage caused by this tool. Use it wisely and responsibly.
-
-<h4>installation Termux</h4>
-<pre>
-
-  <ul>
-    <li>$ pkg update</li>
-    <li>$ pkg upgrade </li>
-    <li>pkg install wget git</li>
-    <li>pkg install python</li>
-    <li>pkg install python2</li>
-    <li>pkg install python3</li>
-    <li>pip install colored</li>
-    <li>pip install termcolor</li>
-    <li>git clone https://github.com/MrpasswordTz/SlowGirl.git
-    </li>
-  <li>cd SlowGirl</li>
-    <li>python3 slowgirl.py</li>
-  </ul>
-</pre>
-<br>
-<h5>installation in linux</h5>
-<pre>
-  <ul>
-    <li>apt update</li>
-    <li>apt upgrade</li>
-    <li>pip install colored</li>
-    <li>pip install termcolor</li>
-    <li>git clone https://github.com/MrpasswordTz/SlowGirl.git
-    </li>
-    <li>cd SlowGirl</li>
-    <li>python3 slowgirl.py</li>
-  </ul>
-</pre>
-<br>
+## Installation in Termux
+```bash
+pkg update
+pkg upgrade
+pkg install wget git
+pkg install python
+pkg install python2
+pkg install python3
+pip install colored
+pip install termcolor
+git clone https://github.com/MrpasswordTz/SlowGirl.git
+cd slowgirl
+python3 slowgirl.py
+```
+## Installation on Linux
+```bash
+apt update
+apt upgrade
+pip install colored
+pip install termcolor
+git clone https://github.com/MrpasswordTz/SlowGirl.git
+cd slowgirl
+python3 slowgirl.py
+```
 <h6 style="color:red;">POWERED BY BONGO @BONGOCODERS</h6>
+
+## Disclaimer
+This tool is intended for educational purposes only. Misuse of this tool can lead to legal
