@@ -27,7 +27,7 @@ This tool is intended for educational purposes only. Misuse of this tool can lea
     <li>pip install termcolor</li>
     <li>git clone https://github.com/MrpasswordTz/SlowGirl.git
     </li>
-  <li>cd slowgirl</li>
+  <li>cd SlowGirl</li>
     <li>python3 slowgirl.py</li>
   </ul>
 </pre>
@@ -41,7 +41,7 @@ This tool is intended for educational purposes only. Misuse of this tool can lea
     <li>pip install termcolor</li>
     <li>git clone https://github.com/MrpasswordTz/SlowGirl.git
     </li>
-    <li>cd slowgirl</li>
+    <li>cd SlowGirl</li>
     <li>python3 slowgirl.py</li>
   </ul>
 </pre>
