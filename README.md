@@ -30,26 +30,20 @@ Supports both Termux and Linux (root and rootless).
 
 ## Installation in Termux
 ```bash
-pkg update
-pkg upgrade
+pkg update -y && pkg upgrade -y
 pkg install wget git
 pkg install python
-pkg install python2
-pkg install python3
-pip install colored
-pip install termcolor
 git clone https://github.com/MrpasswordTz/SlowGirl.git
 cd slowgirl
+pip install -r requirements.txt
 python3 slowgirl.py
 ```
 ## Installation on Linux
 ```bash
-apt update
-apt upgrade
-pip install colored
-pip install termcolor
+apt update -y && apt upgrade -y 
 git clone https://github.com/MrpasswordTz/SlowGirl.git
 cd slowgirl
+pip install requirements.txt
 python3 slowgirl.py
 ```
 <h6 style="color:red;">POWERED BY BONGO @BONGOCODERS</h6>
