@@ -12,10 +12,10 @@
     <img src="https://img.shields.io/github/issues/MrpasswordTz/SlowGirl.svg" alt="GitHub issues">
   </a>
   <img src="https://img.shields.io/badge/version-v1.0-blue.svg" alt="Version">
-  <img src="https://img.shields.io/badge/author-Mrpassword-green.svg" alt="Author">
-  <img src="https://img.shields.io/badge/fork-yes-green.svg" alt="Fork">
+  <img src="https://img.shields.io/badge/author-Mrpassword-red.svg" alt="Author">
+  <img src="https://img.shields.io/badge/fork-yes-blue.svg" alt="Fork">
   <img src="https://img.shields.io/badge/maintenance-yes-green.svg" alt="Maintenance">
-  <img src="https://img.shields.io/badge/open%20source-yes-green.svg" alt="Open Source">
+  <img src="https://img.shields.io/badge/open%20source-yes-red.svg" alt="Open Source">
 </p>
 <img src="Screenshot_20240317-144354~3.png" alt="slowgirlTool">
 
