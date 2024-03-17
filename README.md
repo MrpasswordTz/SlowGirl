@@ -46,7 +46,7 @@ cd slowgirl
 pip install requirements.txt
 python3 slowgirl.py
 ```
-<h6 style="color:red;">POWERED BY BONGO @BONGOCODERS</h6>
-
 ## Disclaimer
 This tool is intended for educational purposes only. Misuse of this tool can lead to legal
+
+<h6 style="color:red;">POWERED BY BONGO @BONGOCODERS</h6>
